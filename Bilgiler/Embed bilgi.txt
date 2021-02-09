@@ -1,0 +1,11 @@
+.setTitle('') === Genel Başlık
+.addField('','') === Başlıklı Yazı
+.setAuthor('','') === Profil Iconlu embed
+.setDescription('') === Normal yazı
+.setFooter('') === En Alt Kısım
+.setColor('') === Embed Rengi
+.setTimestamp() === Zamanı Belirtir
+.setURL('') === Başlığa link ekler
+.addBlankField() === Araya boşluk ekler
+.setThumbnail() === Sağ tarafına resim ekler
+.setImage() === Alt tarafına resim ekler

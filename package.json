@@ -1,0 +1,35 @@
+{
+  "name": "cowboy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node shard.js"
+  },
+  "author": "Chrome",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "discord-giveaways": "^4.3.0",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "include": "^1.1.0",
+    "instagram-private-api": "^1.43.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5",
+    "useful-tools": "^0.2.6",
+    "weather-js": "^2.0.0",
+    "wio.db": "^4.0.9"
+  }
+}

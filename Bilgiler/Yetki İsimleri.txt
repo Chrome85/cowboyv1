@@ -1,0 +1,31 @@
+YETKILI
+  KICK_MEMBERS: Kick Atmak.
+  BAN_MEMBERS: Ban Atmak.
+  ADMINISTRATOR: Yönetici.
+  MANAGE_CHANNELS: Kanalları Yönet.
+  MANAGE_MESSAGES: Mesajları Yönet.
+  MANAGE_WEBHOOKS: Webhookları Yönet.
+  MANAGE_NICKNAMES: Isimleri Yönet.
+  MANAGE_ROLES_OR_PERMISSIONS: Rolleri Yönet.
+  MANAGE_GUILD: Sunucuyu Yönet.
+  MANAGE_EMOJIS: Emojileri Yönet.
+KULLANICI
+  READ_MESSAGES: Mesajları Okuma.
+  SEND_MESSAGES: Mesaj Gönderme.
+  SEND_TTS_MESSAGES: Sesli Mesaj Gönderme.
+  ADD_REACTIONS: Tepki Ekle.
+  CHANGE_NICKNAME: Isim Değiştir.
+  EMBED_LINKS: Embed Linki Gönder.
+  ATTACH_FILES: Dosya Yükle.
+  READ_MESSAGE_HISTORY: Mesaj Geçmişini Görüntüle.
+  CREATE_INSTANT_INVITE: Davet Oluştur.
+  MENTION_EVERYONE: Herkesten Bahset.
+  EXTERNAL_EMOJIS: Farklı Sunucudan Emojiler Kullan.
+SESLI
+  CONNECT: Sesliye Bağlanma Yetkisi.
+  SPEAK: Seslide Konuşma.
+  MUTE_MEMBERS: Seslide Susturma.
+  DEAFEN_MEMBERS: Seslide Bağlantı Kesme.
+  MOVE_MEMBERS: Seslide üye taşımak.
+  USE_VAD: Seslide Aşırı Ses Algılama. (Konuşma) 
+ 
