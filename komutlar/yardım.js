@@ -7,7 +7,7 @@ const embed = new Discord.MessageEmbed()
 .setTimestamp()
 .addField('<a:maviyildiz:793539752858877952> .moderasyon', 'Moderasyon Komutları')
 .addField('<a:maviyildiz:793539752858877952> .eğlence', 'Eğlence Komutları')
-.addField('<a:maviyildiz:793539752858877952> .aboneyardım', 'Abone Rol Komutları')')
+.addField('<a:maviyildiz:793539752858877952> .aboneyardım', 'Abone Rol Komutları')
 .addField('<a:maviyildiz:793539752858877952> .botlistyardım', 'Botlist Komutları')
 .addField('<a:maviyildiz:793539752858877952> .yönetim', 'Sunucuyu Yönetmek için gerekli olan komutlar')
 
